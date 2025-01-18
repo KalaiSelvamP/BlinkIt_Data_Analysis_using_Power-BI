@@ -5,7 +5,7 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 
 ---
 
-## Dashboard Highlights
+## Key Performance Indicators
 
 1. **Total Sales**: $1.2M
 2. **Average Sales per Item**: $141
