@@ -19,10 +19,10 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 ### 1. Fat Content Analysis:
    - The dashboard displays the distribution of sales between low-fat and regular items. Regular items account for $776.3K in sales, while low-fat items contribute $425.4K.
 
-### 2. Total Sales by Item Type
+### 2. Sales by Item Type
    - The highest-grossing categories are "Fruits and Vegetables" and "Snack Foods," each generating $0.18M in sales. Other significant categories include "Household," "Frozen Foods," and "Dairy."
 
-### 3. Total Sales by Outlet Establishment
+### 3. Sales by Outlet Establishment
    - A line chart tracks the establishment of outlets over time, highlighting key milestones in sales growth from 2010 to 2020.
      
 ### 4. Sales by Outlet Location,Size and Type
